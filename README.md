@@ -1,7 +1,7 @@
 <div align="center">
 
 # 💫 About Me:
-I'm Dina, a fullstack developer passionate about building real, working products. I work across the stack with JavaScript, TypeScript, and Python, building backends with Node.js, Express, and NestJS, and crafting frontends with React and Redux. I'm comfortable with REST APIs and GraphQL, handling authentication and database design with MongoDB.<br>I'm always exploring new tools and technologies, and I love turning what I learn into complete, functional projects. I'm open to collaborating and continuing to grow as a developer.
+I'm Dina, a fullstack developer passionate about building real, working projects. I work across the stack with JavaScript, TypeScript, and Python, building backends with Node.js, Express, and NestJS, and crafting frontends with React and Redux. I'm comfortable with REST APIs and GraphQL, handling authentication and database design with MongoDB.<br>I'm always exploring new tools and technologies, and I love turning what I learn into complete, functional projects. I'm open to collaborating and continuing to grow as a developer.
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dina_me10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madina-mirisxakova-a193aa356/)
