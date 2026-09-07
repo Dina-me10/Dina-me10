@@ -17,11 +17,6 @@ I'm Dina, a fullstack developer passionate about building real, working projects
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dina-me10&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dina-me10/Dina-me10/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dina-me10/Dina-me10/output/github-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Dina-me10/Dina-me10/output/github-snake.svg">
-</picture>
 
 
 ---
